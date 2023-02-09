@@ -1,5 +1,5 @@
 {
-  "name": "handlebars-delimiters",
+  "name": "@finduspt/handlebars-delimiters",
   "description": "Custom delimiters, for Handlebars templates.",
   "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/handlebars-delimiters",
@@ -15,7 +15,8 @@
   },
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "main": "index.js",
   "engines": {
