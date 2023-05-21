@@ -1,1 +1,1 @@
-declare module '@finduspt/handlebars-delimiters'
+declare module '@findusproptech/handlebars-delimiters'
